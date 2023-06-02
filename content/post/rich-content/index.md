@@ -4,8 +4,8 @@ description: A brief description of Hugo Shortcodes
 date: 2019-03-10T00:00
 author: Hugo Authors
 tags:
-  - shortcodes
-  - privacy
+- shortcodes
+- privacy
 metaDescription: This is a test
 ---
 
