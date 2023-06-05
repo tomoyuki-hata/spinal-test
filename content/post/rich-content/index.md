@@ -2,7 +2,7 @@
 title: Rich Content
 description: A brief description of Hugo Shortcodes
 date: 2019-03-10T00:00
-image: https://res.cloudinary.com/dbeg99nry/image/upload/v1685685393/in0h53vacjxgsgmcz9xp.jpg
+image: zsdyxh7hosoovzhk1o0q.jpg
 author: Hugo Authors
 tags:
 - shortcodes
