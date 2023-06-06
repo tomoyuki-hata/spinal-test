@@ -20,14 +20,6 @@ This is added test...
 
 {{< youtube ZJthWmvUzzc >}}
 
-* * *
-
-## Twitter Simple Shortcode
-
-{{< twitter\_simple user="DesignReviewed" id="1085870671291310081" >}}
-
-* * *
-
 ## Vimeo Simple Shortcode
 
 {{< vimeo\_simple 48912912 >}}
