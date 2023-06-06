@@ -54,4 +54,4 @@ Stack adds a `quote` shortcode. For example:
 
 {{< quote author="Somebody">}} Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. {{< /quote >}}
 
-![mountains-g0cb175312_1280](/images/posts/xpvlswpetgsfdzxuf9ca.jpg)
+![mountains-g0cb175312_1280](/images/post/rpebfy71ws3rgxckpxly.jpg)
